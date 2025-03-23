@@ -4,7 +4,7 @@
 # Índice
 
 1. [add prime sum](#add-prime-sum)
-2. [Imagen 2](#epur_str)
+2. [epur_str](#epur_str)
 
 ---
 
