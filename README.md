@@ -12,5 +12,5 @@
 ![add prime sum](./image/1%20-%20LIBFT%20(2)_page-0003.jpg)
 
 ## epur_str
-![epur_str](./image/1%20-%20LIBFT%20(2)_page-0003.jpg)
+![epur_str](./image/1%20-%20LIBFT%20(2)_page-0004.jpg)
 
